@@ -11,3 +11,4 @@ You can change the `theme-color` meta tag in the HTML, this will control the tit
 ### Preview
 
 ![](http://i.imgur.com/uHJM0oe.png)
+![](http://i.imgur.com/T8W34iE.png)
