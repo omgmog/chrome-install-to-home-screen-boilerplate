@@ -1,6 +1,6 @@
 ## Chrome "install to homescreen" boilerplate
 
-This is a quick boilerplate I've put together, using the [guidelines available from Google]().
+This is a quick boilerplate I've put together, using the [guidelines available from Google](https://developer.chrome.com/multidevice/android/installtohomescreen).
 
 You'll need to make your own launcher icon at the sizes provided. At the very least, provide a 192x192 version.
 
